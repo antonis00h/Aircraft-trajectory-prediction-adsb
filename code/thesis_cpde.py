@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Prediction of Aircraft Route/Location
+Prediction of Aircraft Location/Trajectory
 MSc thesis code
 
 This script reproduces the main experimental pipeline used in the thesis:
